@@ -35,3 +35,9 @@ Tested on Alpine version 3.23.
    ```bash
    make -j$(getconf _NPROCESSORS_ONLN)
    ```
+
+## Acknowledgements
+
+Thanks to @alexdoesh for the initial guide (https://www.pvsm.ru/vpn/282646).
+
+Thanks to @GetPageSpeed for the fork and improvements to MTProxy (https://github.com/GetPageSpeed/MTProxy)
