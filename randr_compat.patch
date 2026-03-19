@@ -147,7 +147,7 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 ===================================================================
 --- common/randr_compat.c	(date 1527998213000)
 +++ common/randr_compat.c	(date 1527998213000)
-@@ -0,0 +1,120 @@
+@@ -0,0 +1,121 @@
 +/*
 +    The GNU C Library is free software.  See the file COPYING.LIB for copying
 +    conditions, and LICENSES for notices about a few contributions that require
